@@ -45,6 +45,11 @@ order to build this cool arduino based wire cutting and striping machine.
 > Some 3D printed parts
 
 
+# CIRCUIT DIAGRAM
+
+![Untitled-4](https://user-images.githubusercontent.com/19898602/125567746-86a8bb3f-6d84-4c88-bd82-8a644690dbb4.jpg)
+
+
 
 # CONSTRUCTION
 
@@ -129,6 +134,17 @@ Is stored in HMI itself no extra load on Arduino. this will make coding simple a
 
 I have designe a PCB which is multipurpose and order it from [JLCPCB](https://jlcpcb.com/IAT ) 
 
+I always prefer [JLCPCB.com](https://jlcpcb.com/IAT) for my PCB needs, [JLCPCB.com](https://jlcpcb.com/IAT) have best deals for their customers
+$2 for 1-4 Layer PCBs, free SMT assembly monthly.
+
+
+and this is not it if you are new customer for [JLCPCB.com](https://jlcpcb.com/IAT) you will get 18$ coupon on your
+first registration to their site its limited period offer so what are waiting for go  and get your benefit. 
+
+
+[Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
+
+
 followings are the some features of PCB
 
 1. Wide range of power input 9V to 24V DC
@@ -153,7 +169,15 @@ List of the Components you can connect to the PCB
 
  
 
+![MVI_0001_2 00_09_37_13 Still007](https://user-images.githubusercontent.com/19898602/125568053-09d45d93-a4db-4103-9674-0dff868a9753.jpg)
 
+
+I have place the wire roll at one end of the based this wire is feed to the cutter
+
+![MVI_0001_2 00_10_31_11 Still008](https://user-images.githubusercontent.com/19898602/125568165-9d9696a1-5669-44b7-8be9-5489a5fe8343.jpg)
+
+
+At last we have HMI here we enter the specification for cutting like length of wire cut and strip length.
 
 
 
