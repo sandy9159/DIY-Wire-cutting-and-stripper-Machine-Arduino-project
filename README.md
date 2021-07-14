@@ -104,6 +104,15 @@ cutter stepper motor rotates it pull the cutter handle done and we can cut the w
 
 
 
+![MVI_0001_2 00_05_38_21 Still006](https://user-images.githubusercontent.com/19898602/125564345-443cff88-2877-466d-87d0-29469c2da859.jpg)
+
+
+I have used a 2.8" nextion HMI for the user interface. user can enter how much quantity and length for wire to cut.
+
+Using HMI is very best idea because this Nextion HMI have on board uController on it. Means all the HMI coding 
+
+Is stored in HMI itself no extra load on Arduino. this will make coding simple and fast, HMI itself have some GPIO’s on board
+
 
 
 
