@@ -74,6 +74,39 @@ https://pinshape.com/items/103601-3d-printed-arduino-wire-cutting-machine
 
 
 
+![MVI_0001_2 00_01_10_10 Still003](https://user-images.githubusercontent.com/19898602/125563654-5234eaa8-7bd3-4e59-9b7d-099cb2e0bc9c.jpg)
+
+Then I placed all the 3D printed parts on woden base
+
+and mark the location for hole, then I drill it out using my stand drill
+
+all holes are of 4mm so we can easily fit 3mm Screw through it and leave some tolerance for further adjustment.
+
+![MVI_0001_2 00_03_14_06 Still004](https://user-images.githubusercontent.com/19898602/125563840-56d2d1ed-f39f-4ce7-aae8-4e57bf12cc37.jpg)
+
+This is wire feeding mechanism which made using 3D printed parts.
+
+This system push wire to teethed pully as stepper motor rotates wire will feed to the cutter.
+
+
+![MVI_0001_2 00_04_05_09 Still005](https://user-images.githubusercontent.com/19898602/125563946-38273048-83fe-45ad-a2ba-52cba3f27469.jpg)
+
+This is the wire cutter, I have removed its grip from the handle
+
+so it can easily fit in the 3D printed parts and secure it tightly to the wooden base
+
+I have made a small grove on the upper handle, I this grove is used to connect 
+
+the wire which is connected to the cutter stepper  motor so that when the 
+
+cutter stepper motor rotates it pull the cutter handle done and we can cut the wire during this process.
+
+
+
+
+
+
+
 
 
 
