@@ -114,6 +114,45 @@ Using HMI is very best idea because this Nextion HMI have on board uController o
 Is stored in HMI itself no extra load on Arduino. this will make coding simple and fast, HMI itself have some GPIO’s on board
 
 
+# CUSTOM PCB
+
+![image](https://user-images.githubusercontent.com/19898602/125565116-4c680a77-972b-40bd-89bf-004449d13060.png)
+
+
+![image](https://user-images.githubusercontent.com/19898602/125565128-45735f1e-9117-4a26-b689-73deb638d1d7.png)
+
+
+![image](https://user-images.githubusercontent.com/19898602/125565136-36bd92db-1dbf-47f3-b9f9-5dc034d2a6d1.png)
+
+
+
+
+I have designe a PCB which is multipurpose and order it from [JLCPCB](https://jlcpcb.com/IAT ) 
+
+followings are the some features of PCB
+
+1. Wide range of power input 9V to 24V DC
+2. Cross polarity protection
+3. DC motor voltage selection 9V or 12 V DC
+4. Servo motor voltage selection 5V or 9V DC
+5. Manual microstepping setting for stepper motor
+6. Power indication LED
+7. L298N IC for heavier DC motor
+8. ON board 5V and 9V regulator no need to arrange different power sources
+9. Header pins and screw terminals for easy connections
+
+List of the Components you can connect to the PCB
+
+1. 2 DC motor ( 9V to 24V DC)
+2. 2 Potentiometer
+3. 2 Servo motors ( 5V to 9V DC)
+4. 1 Serial device (BT module, HMI, Communication module, RX, TX)
+5. 1 Encoder (2 interrupt pin & 1 PB pin)
+6. 1 I2C device (SCL/SDA Device, display, MPU6050 etc)
+7. 2 Stepper motors
+
+ 
+
 
 
 
