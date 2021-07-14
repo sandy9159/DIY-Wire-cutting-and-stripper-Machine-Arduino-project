@@ -181,6 +181,7 @@ At last we have HMI here we enter the specification for cutting like length of w
 
 
 
+![MVI_0001_2_3](https://user-images.githubusercontent.com/19898602/125568358-e4eb3470-e845-47b5-8d1d-7b6f564a7edd.gif)
 
 
 
