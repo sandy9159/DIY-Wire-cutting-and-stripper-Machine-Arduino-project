@@ -1,4 +1,4 @@
-![MVI_0001_2 00_05_38_21 Still006](https://user-images.githubusercontent.com/19898602/125564274-aa913191-3e76-478c-9d64-e2c2550cc9c7.jpg)
+
 
 
 ![image](https://user-images.githubusercontent.com/19898602/125561367-8227639a-4998-40e0-86e8-33341bd31287.png)
@@ -104,7 +104,7 @@ cutter stepper motor rotates it pull the cutter handle done and we can cut the w
 
 
 
-![MVI_0001_2 00_05_38_21 Still006](https://user-images.githubusercontent.com/19898602/125564345-443cff88-2877-466d-87d0-29469c2da859.jpg)
+![MVI_0001_2 00_05_38_21 Still006](https://user-images.githubusercontent.com/19898602/125564274-aa913191-3e76-478c-9d64-e2c2550cc9c7.jpg)
 
 
 I have used a 2.8" nextion HMI for the user interface. user can enter how much quantity and length for wire to cut.
